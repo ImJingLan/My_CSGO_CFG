@@ -1,0 +1,883 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"0"
+		"FirstTimeComplete"		"1"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{c4982182-884f-4748-890b-acf5d29afb9e}"
+		"DefaultAudioDeviceName"		"SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{4bac088b-087b-49dd-9f89-8fa157b46caa}"
+		"DefaultMicrophoneName"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
+		"P2PScopeV2"		"0"
+	}
+	"friends"
+	{
+		"1375748898"
+		{
+			"NameHistory"
+			{
+				"0"		"时溪"
+				"1"		"Yuriik"
+				"2"		"XD"
+			}
+			"avatar"		"b68fb4f89aeab0c1779ba9d453b125dff20d6c84"
+			"name"		"时溪"
+		}
+		"PersonaName"		"时溪"
+		"communitypreferences"		"18002000280130013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
+		"970105762"
+		{
+			"name"		"樱井杨瑞"
+			"NameHistory"
+			{
+				"0"		"樱井杨瑞"
+				"1"		"我是卡拉彼丘高手"
+				"2"		"卡拉彼丘高手"
+			}
+			"avatar"		"e0fba0e0174a0575db9381affa21cdef35098822"
+		}
+		"1013180989"
+		{
+			"name"		"J1ngY4n"
+			"NameHistory"
+			{
+				"0"		"J1ngY4n"
+			}
+			"avatar"		"0690f89e157bffde00841ca07fd020fe0df8aa74"
+		}
+		"1164891320"
+		{
+			"name"		"柴郡指哪我打哪"
+			"NameHistory"
+			{
+				"0"		"柴郡指哪我打哪"
+				"1"		"圣姨开车我开圣姨"
+			}
+			"avatar"		"23d8a4e9becbff58fa6616b6cb527bdb25fc9445"
+		}
+		"1326173752"
+		{
+			"name"		"sejocqe6beq"
+			"NameHistory"
+			{
+				"0"		"sejocqe6beq"
+			}
+		}
+		"1125539359"
+		{
+			"name"		"海哥"
+			"NameHistory"
+			{
+				"0"		"海哥"
+				"1"		"弟中弟盗浩q2147866157专业"
+				"2"		"海哥(以换号)"
+				"3"		"xDDDDDDDDDD"
+			}
+			"avatar"		"19d6909996d46536f7fbc5fd19a184bdbdc9a18f"
+		}
+		"351765534"
+		{
+			"name"		"FisH"
+			"NameHistory"
+			{
+				"0"		"FisH"
+				"1"		"ℱ𝒾𝓈ℋ"
+			}
+			"avatar"		"10531005299ee17f55b2fae084c2525be4b9d332"
+		}
+		"103582791473628553"
+		{
+			"name"		"LZGZ Star Railers"
+			"tag"		"LGSRer"
+			"avatar"		"4b23e9032d49c25708552dce0836b35f58c197d1"
+		}
+		"442968736"
+		{
+			"name"		"账号已注销"
+			"NameHistory"
+			{
+				"0"		"账号已注销"
+			}
+			"avatar"		"de7aed4299406a52b01b0fc087ec5eb1d380b7e7"
+		}
+		"1151910672"
+		{
+			"name"		"weiss"
+			"NameHistory"
+			{
+				"0"		"weiss"
+			}
+			"avatar"		"08f8ffcbe81557697e641b8bbc741c1fc173aa6f"
+		}
+		"1332466744"
+		{
+			"name"		"成都yekindar"
+			"NameHistory"
+			{
+				"0"		"成都yekindar"
+			}
+			"avatar"		"fe1dcf4b9da5c9ec6c2dfb226124d013ab904fb2"
+		}
+		"1527359786"
+		{
+			"name"		"犬马"
+			"NameHistory"
+			{
+				"0"		"犬马"
+				"1"		"upside down"
+			}
+			"avatar"		"148ff422f2245ab66abfeabf3f7506861d6b703b"
+		}
+		"1046742725"
+		{
+			"name"		"hya1^信信信信信信子"
+			"NameHistory"
+			{
+				"0"		"hya1^信信信信信信子"
+				"1"		"信信信信信信子"
+				"2"		"𝐜𝐨𝐧𝐭𝐫𝐨𝐥𝐑"
+			}
+			"avatar"		"9c829366a37de1c3a1766036ad40ef784f115398"
+		}
+		"1088638190"
+		{
+			"name"		"禁漫娘西丝特official"
+			"NameHistory"
+			{
+				"0"		"禁漫娘西丝特official"
+			}
+			"avatar"		"1d5eb2dd3bb622be19c54d2273073d8b8e65ff83"
+		}
+		"1074044059"
+		{
+			"name"		"Shi Siming"
+			"NameHistory"
+			{
+				"0"		"Shi Siming"
+				"1"		"speed"
+				"2"		"LakeSuperior"
+				"3"		"pop"
+				"4"		"ThePenitentOne"
+			}
+			"avatar"		"0150e852db8a22afa6c315f7aadc1781b793f47c"
+		}
+		"1238384471"
+		{
+			"name"		"."
+			"NameHistory"
+			{
+				"0"		"."
+			}
+		}
+		"423757569"
+		{
+			"name"		"nuvxu"
+			"NameHistory"
+			{
+				"0"		"nuvxu"
+				"1"		"K"
+				"2"		"SliverWolf"
+				"3"		"JamYoung"
+			}
+			"avatar"		"a03bb010c86d8a5b16381288cb109d0aebcbbd60"
+		}
+		"103582791472324355"
+		{
+			"name"		"柳州高级中学"
+			"tag"		"柳高 |"
+			"avatar"		"c27fc5254b462eb6d60a28b75a725365e883a767"
+		}
+		"1513721987"
+		{
+			"name"		"阴险狡诈的猪头老表"
+			"NameHistory"
+			{
+				"0"		"阴险狡诈的猪头老表"
+			}
+			"avatar"		"76e9102e72ceff5a10d30d437cdb6fb78a2346fc"
+		}
+		"1220039401"
+		{
+			"name"		"Calm"
+			"NameHistory"
+			{
+				"0"		"Calm"
+			}
+			"avatar"		"d6aa2a27707042ae37009a905806e2abe2e5794c"
+		}
+		"103582791472328247"
+		{
+			"name"		"It  is  Yee  Team"
+			"tag"		"Yee     Team"
+			"avatar"		"91a50196d710afc17ed25a78087a462715301767"
+		}
+		"1218967198"
+		{
+			"name"		"_你我皆是黄泉预约客*"
+			"NameHistory"
+			{
+				"0"		"_你我皆是黄泉预约客*"
+				"1"		"_黄泉预约客，早晚都得"
+				"2"		"_清晨的粥，凌晨的酒*"
+				"3"		"★有钱我不花就是玩儿"
+			}
+			"avatar"		"0717a975838520b7d737852470b89fe7a9e4ffde"
+		}
+		"103582791471133474"
+		{
+			"name"		"Nobody - The Turnaround"
+			"avatar"		"dcd347f354b25a1b2977890f9ee24219450dbfd1"
+		}
+		"1065253976"
+		{
+			"name"		"我是美少女"
+			"NameHistory"
+			{
+				"0"		"我是美少女"
+				"1"		"神之轨迹"
+				"2"		"萝卜哥"
+				"3"		"pussy"
+				"4"		"B+"
+				"5"		"希望有人陪我玩游戏"
+				"6"		"h1na7wi"
+				"7"		"心知花的无期"
+			}
+			"avatar"		"ef6a9b23fe31eb0157601f37a0375659f4b8a03e"
+		}
+		"103582791473036126"
+		{
+			"name"		"》VirtuaReal《"
+			"tag"		"·VirtuaReal·"
+			"avatar"		"0000000000000000000000000000000000000000"
+		}
+		"103582791472447926"
+		{
+			"name"		"netherworld people"
+			"tag"		"黄泉旅行团"
+			"avatar"		"6da47a1b5f36d7da932e61e6fc7b3d6369cb9eaf"
+		}
+		"103582791471795599"
+		{
+			"name"		"Caerbannog_Rabbit"
+			"tag"		"Rabbit :"
+			"avatar"		"a3d8a448d24b3e60045013b60f68a55d9def683f"
+		}
+		"1052289926"
+		{
+			"name"		"猪头老表"
+			"NameHistory"
+			{
+				"0"		"猪头老表"
+				"1"		"数码宝贝大聪明"
+			}
+			"avatar"		"781488202a15a4aec17bcaa095b4bf94789563fd"
+		}
+		"1101127867"
+		{
+			"name"		"悟の空"
+			"NameHistory"
+			{
+				"0"		"悟の空"
+			}
+			"avatar"		"1681369cc4f6a38b19f9336a04b38f32a78bd771"
+		}
+		"1276718594"
+		{
+			"name"		"E1even’Kyrie"
+			"NameHistory"
+			{
+				"0"		"E1even’Kyrie"
+				"1"		"LiverEnee"
+			}
+			"avatar"		"f2acc190626a8e8d1be042a77fa278ec3706e7ff"
+		}
+		"Notifications_ShowIngame"		"0"
+		"Notifications_ShowOnline"		"0"
+		"Notifications_ShowMessage"		"1"
+		"Notifications_EventsAndAnnouncements"		"0"
+		"Sounds_PlayIngame"		"0"
+		"Sounds_PlayOnline"		"0"
+		"Sounds_PlayMessage"		"0"
+		"Sounds_EventsAndAnnouncements"		"0"
+		"ChatFlashMode"		"0"
+		"DoNotDisturb"		"0"
+		"SignIntoFriends"		"1"
+		"1285165073"
+		{
+			"name"		"豆丁"
+			"NameHistory"
+			{
+				"0"		"豆丁"
+			}
+			"avatar"		"d3de46c23845e03b93ffc1941cb9960657ec124f"
+		}
+		"1059462767"
+		{
+			"name"		"超绝可爱唐氏美少女大西瓜伊蕾娜"
+			"NameHistory"
+			{
+				"0"		"超绝可爱唐氏美少女大西瓜伊蕾娜"
+				"1"		"超绝可爱美少女伊蕾娜"
+			}
+			"avatar"		"db0b6400c9e42fee3c49ceb376b4a71afba172a1"
+		}
+		"1418210186"
+		{
+			"name"		"工藤新一"
+			"NameHistory"
+			{
+				"0"		"工藤新一"
+			}
+			"avatar"		"1031f286acb9b49cf88dfd0c9d7039dfa1a16d37"
+		}
+		"1510190545"
+		{
+			"name"		"Coraline？"
+			"NameHistory"
+			{
+				"0"		"Coraline？"
+				"1"		"快乐水的究极喝法"
+			}
+			"avatar"		"2538091f504cbd2a8eec71e02f14d9297d2b9bc8"
+		}
+		"1396313918"
+		{
+			"name"		"iRain"
+			"NameHistory"
+			{
+				"0"		"iRain"
+			}
+			"avatar"		"c7019b62a215da4a8e1f383ba886bff9752b4a3a"
+		}
+		"449016899"
+		{
+			"name"		"不离不弃纯属童言无忌"
+			"NameHistory"
+			{
+				"0"		"不离不弃纯属童言无忌"
+			}
+			"avatar"		"04b05a265d328e6187d11817be200b785c325cb0"
+		}
+		"1086543845"
+		{
+			"name"		"0Rgz1^"
+			"NameHistory"
+			{
+				"0"		"0Rgz1^"
+			}
+			"avatar"		"a246076687b66e0549a4cb1434fa7b287af03e4e"
+		}
+		"1543883110"
+		{
+			"name"		"水超多的娜美"
+			"NameHistory"
+			{
+				"0"		"水超多的娜美"
+			}
+			"avatar"		"62023c201c5b5945501a1d9af115f69ddbc4b810"
+		}
+		"1422535130"
+		{
+			"name"		"Wmm/tao"
+			"NameHistory"
+			{
+				"0"		"Wmm/tao"
+			}
+			"avatar"		"71901004b276026f74ee7f559e048f8793c9c655"
+		}
+		"1013293044"
+		{
+			"name"		"DA突击手-井上泷奈"
+			"NameHistory"
+			{
+				"0"		"DA突击手-井上泷奈"
+			}
+			"avatar"		"711d23c11c7b5816e91bc0df9f6dd17d231d463c"
+		}
+		"1280645322"
+		{
+			"name"		"女明星的紫薇棒"
+			"NameHistory"
+			{
+				"0"		"女明星的紫薇棒"
+			}
+			"avatar"		"964b3c522599816208e7b48cb9e87f91457b66ab"
+		}
+		"1066402265"
+		{
+			"name"		"s1mple"
+			"NameHistory"
+			{
+				"0"		"s1mple"
+			}
+			"avatar"		"543bb32f9249e6738288c0d3ac6987ee25983c41"
+		}
+		"1480108688"
+		{
+			"name"		"老板"
+			"NameHistory"
+			{
+				"0"		"老板"
+			}
+			"avatar"		"ee71a010283e7665fb23a78f22ad4a990e865067"
+		}
+		"1473178642"
+		{
+			"name"		"布衣"
+			"NameHistory"
+			{
+				"0"		"布衣"
+			}
+			"avatar"		"5c2b5e6780f4e74551c55902a07ccb1ecaf3209b"
+		}
+		"1283040580"
+		{
+			"name"		"Sty-xz"
+			"NameHistory"
+			{
+				"0"		"Sty-xz"
+				"1"		"灰鸡"
+				"2"		"Sty-xx"
+				"3"		"啊杰"
+				"4"		"AAbltie"
+				"5"		"？"
+			}
+			"avatar"		"353663cdd70c2f762419ef69912ce4bb5263126b"
+		}
+		"1172173709"
+		{
+			"name"		"N1ght"
+			"NameHistory"
+			{
+				"0"		"N1ght"
+			}
+			"avatar"		"ad3e4b0c342b5381b123838b334daa6fe3614cec"
+		}
+		"902932596"
+		{
+			"name"		"薇尔莉特"
+			"NameHistory"
+			{
+				"0"		"薇尔莉特"
+			}
+			"avatar"		"b4ebc621da7949c095292497724ee0e8d11b27ec"
+		}
+		"103582791473764969"
+		{
+			"name"		"Freedom Curator"
+			"avatar"		"0484f886c8dc4c2f55261359cce7c55e93426937"
+			"tag"		"自由评测"
+		}
+		"1098408114"
+		{
+			"name"		"理塘重工，专业电子烟13年"
+			"NameHistory"
+			{
+				"0"		"理塘重工，专业电子烟13年"
+			}
+			"avatar"		"11198ffb14c3922bd3f1772766f6e6281e3ac707"
+		}
+		"907754857"
+		{
+			"name"		"Giggitty"
+			"NameHistory"
+			{
+				"0"		"Giggitty"
+			}
+			"avatar"		"efb3e59fd73084fea0659b23ad99432037258036"
+		}
+		"1389672343"
+		{
+			"name"		"阿志"
+			"NameHistory"
+			{
+				"0"		"阿志"
+			}
+			"avatar"		"a96f1d2eac194b5a92190c1147e6eda6c5105b14"
+		}
+		"861104887"
+		{
+			"name"		"ViGour"
+			"NameHistory"
+			{
+				"0"		"ViGour"
+			}
+			"avatar"		"1c0b5c37a442a2d39f32902ec42f2e26ba6a142e"
+		}
+		"1237298587"
+		{
+			"name"		"甜妹也有咸咸的地方"
+			"NameHistory"
+			{
+				"0"		"甜妹也有咸咸的地方"
+			}
+			"avatar"		"8155c80808f4747b44eac6426036b16556e0e935"
+		}
+		"1015448586"
+		{
+			"name"		"宝贝"
+			"NameHistory"
+			{
+				"0"		"宝贝"
+			}
+			"avatar"		"58a6226cabdd35d1a3e8f866c184201ffc1becc7"
+		}
+	}
+	"SharedAuth"
+	{
+		"id"		"788504463"
+		"AuthData"		"9cf1c2e5060a193b8dcdfc7ea7a6bf24de023b204d2eea130b1d3389611601b4"
+	}
+	"Offline"
+	{
+		"Ticket"		"08a286819005150ef2d964"
+		"Signature"		"434743584d499619c4273f42d93cd9d303e34edbfc58ddea0d335ee5d4c2c441a61b0e2a2fd7f49b049e2983b0a576867dae4fe11ac561bce3354b9e21a23ee12b2b9acc4d0098e3479319552021e495474e7d83a87dd05c3e7eeae163f5e5d3a4ecbe9396e68b673d14dfac73f0eabec28f097734dfa51a27b4e483407d261a70382e1c80c07d564696e3c3054437c3085c7d5d149418edb83e01668fc8414c7d1badaa4d79548e5e8f34972ecb5b7a88d97fc27029ca4955909763f89a30ba0e47a1ac081f32b1105c497b42f0ef3f433256ead1d316bc2bcf4477aa732ac026db5a4ebd399412e756b80c42d5c3beea5f0a9d26c762107585b7fee893dad7"
+		"EncryptedTicket"		"0a20811f466028ec4997a717994f51f1e0c87c960d23a990606a32e770de4fdde027128002434743584d499619c4273f42d93cd9d303e34edbfc58ddea0d335ee5d4c2c441a61b0e2a2fd7f49b049e2983b0a576867dae4fe11ac561bce3354b9e21a23ee12b2b9acc4d0098e3479319552021e495474e7d83a87dd05c3e7eeae163f5e5d3a4ecbe9396e68b673d14dfac73f0eabec28f097734dfa51a27b4e483407d261a70382e1c80c07d564696e3c3054437c3085c7d5d149418edb83e01668fc8414c7d1badaa4d79548e5e8f34972ecb5b7a88d97fc27029ca4955909763f89a30ba0e47a1ac081f32b1105c497b42f0ef3f433256ead1d316bc2bcf4477aa732ac026db5a4ebd399412e756b80c42d5c3beea5f0a9d26c762107585b7fee893dad718062208f0ad5a5790a6b1f8280432086b4f7ec4f87b4da6"
+		"EncryptedSignature"		"434743584d499619c4273f42d93cd9d303e34edbfc58ddea0d335ee5d4c2c441a61b0e2a2fd7f49b049e2983b0a576867dae4fe11ac561bce3354b9e21a23ee12b2b9acc4d0098e3479319552021e495474e7d83a87dd05c3e7eeae163f5e5d3a4ecbe9396e68b673d14dfac73f0eabec28f097734dfa51a27b4e483407d261a70382e1c80c07d564696e3c3054437c3085c7d5d149418edb83e01668fc8414c7d1badaa4d79548e5e8f34972ecb5b7a88d97fc27029ca4955909763f89a30ba0e47a1ac081f32b1105c497b42f0ef3f433256ead1d316bc2bcf4477aa732ac026db5a4ebd399412e756b80c42d5c3beea5f0a9d26c762107585b7fee893dad7"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"0922430052000000004800"
+		"Signature"		"57d6fb17cee313a1c1066e48bebb3f12518aeaff37deb5f72d6ee00a37eb6b58f7289e0b36ee1d96c351fa1b287b99113312d2563ff966cda95ace9c8a86b6b74862007ab31dd278dd9bab6660be1d147425a1577df73c296f323c1b80ab35969528687ce395a73d95988906db0d0622e499b8e76f1ebf8ebf6e87782fead3a85cb704d005ff70e9d6d2c5024a7bf76ccde0c8f26451083f9c58b7bae6565d1befc1fe8543c9feb9fed2515967bded4eaa287647cc338480e32847fe8e1e8bd9e071d2533ffdd5a928efc24469a706bf3977cdeced665293ef0e4c22a7a040f7b429664487163ae5e3c6f97bb77d514ddc0de10db33fe81089902908b88a0baf"
+	}
+	"apptickets"
+	{
+		"7"		"32000000040000002243005201001001070000006aeab5750401a8c0000000000ef2d9648ea1f564010000000000000000008e2cb16fdfb749bd1763c64302003ac534140eeebc011336a007ce4efa173d54ddae4b23a52f973b380b3d86d6fdaa9ed0c89e1245a727abe410a12db027e51e2c004a9bfa90385c7680ac585474144018738a84420cd57a37cf6082045ab2cf4a6e6874e6e7b99cc9ad5a6aba7d94c8e3299d5af6a49994bdff737cb457ca70"
+		"730"		"3e000000040000002243005201001001da0200007eeab5750401a8c0000000006b61ce64eb10ea6401000dd300000200b48809000000b6880900000000004df1747643b2a02a6f1ab26f9a172193ba161197dd44d45e968f8919988b2ef18fb296abe609e4984d793355175a30e8ae45be09edd9db8ef79cf19dd3a4ad61de822aab0fe7aa2fd992613296da1d32250cd0b11052afac822067cba82f63409c889abfbbc0f366c2aa4f55a680f18b15c7b4eee0f6d305500b65909c87e588"
+		"228980"		"32000000040000002243005201001001747e03007eeab5750401a8c0000000006b12cf64ebc1ea64010000000000000000003f26f19f5c34cadbe08d0f6eceaaa7af5932c01f844d507b539a1c8c1541b3c561aa72d0d79b5f6c5460192e09e017275a9d940066f7c9e5c0140370a10679e3055cb9ac99d29f59f9174d13729c9467d56e1bed8bc5523dd76227009aa4a1aaa90f44b8addf6f3417b279be0b3eb83fb6457c5e474ba955dc43a2e840ea9a3a"
+		"1172470"		"32000000040000002243005201001001f6e311005cebb5750401a8c000000000e2a1a8646251c4640100ff1f06000000000080f080676d56fd2615da5723defdd96fffb3c3a8b4eacbd4477db8585c9838904b220fb558315e501ab69e4b12488ffc9b9f450869f3f2f30b3ec89ee83f0d036d99b9c0fe1b64ac21e954cff4a51f314515302a7269e95ba16e5023802a956733ccb6ac666573d0fc4a076139543d73dc93f51b5630ad76377af9acc10a5701"
+		"1168660"		"3200000004000000224300520100100114d5110006ebb5750501a8c0000000002228d264a2d7ed6401003318060000000000cd6a826601c96acf406a509c55ddbc99256161453502cc5921d4c7c24fa8c05a11339ce99c771068a9e58e1801f571dfe86f7e6da6ac0f0f2b030b60331db9bd03400f47c2f777e51decaf56b68bc7b478748714a7d24e85af755a1e99c157192e8208175ac407dfec1fa06751f5b6b80921d9af13226c51fab45c6301e781fd"
+		"0"		"32000000040000002243005201001001000000006aeab5750401a8c0000000000ef2d9648ea1f5640100000000000000000059faa39ce35c6fafab98302b45dc45aa93b9e2087290febbceb2521b00b46ead104e392a254435321c4008bc1b33f636223d6fc4528e6131f10f05788576df94303e292c3888cb2c13c2eeb93dbc387da68acfc2a65cd8056f930dc46ecb40105662b965f5e2002e7ec7abcc250a5ddee9bc039101ff6c590c7b386e9839d8ec"
+	}
+	"AppInfoChangeNumber"		"19891588"
+	"CloudKey"		"010000005d78f094ba573c3d8ae1ed461768ee783e365d801d8e292c8e6e1e4a0838232078b319f4"
+	"CloudKeyCRC"		"1481236123"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"10"
+					{
+						"LastPlayed"		"1662888401"
+						"Playtime"		"170"
+					}
+					"550"
+					{
+						"LastPlayed"		"1669730786"
+						"Playtime"		"19"
+					}
+					"730"
+					{
+						"LastPlayed"		"1692000733"
+						"Playtime2wks"		"1914"
+						"Playtime"		"55428"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"LaunchOptions"		"-high +exec custom -nojoy -novid -threads 12 -preload -processheap -noforcemaccel -noforcemparms -noforcemspd -noaafonts -freq 144 -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -trust -trusts -perfectworld"
+						"autocloud"
+						{
+							"lastlaunch"		"1692000193"
+							"lastexit"		"1692000730"
+						}
+						"BadgeData"		"0a00000008041206080110011800"
+						"DisableUpdatesUntil"		"0"
+					}
+					"322330"
+					{
+						"LastPlayed"		"1660228687"
+						"Playtime"		"14"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"431960"
+					{
+						"LastPlayed"		"1679651103"
+						"Playtime"		"21"
+					}
+					"632810"
+					{
+						"LastPlayed"		"1670853558"
+						"Playtime"		"537"
+					}
+					"714010"
+					{
+						"LastPlayed"		"1664944598"
+						"Playtime"		"11"
+					}
+					"1172470"
+					{
+						"LastPlayed"		"1666842450"
+						"Playtime"		"270"
+						"1172470_eula_0"		"0"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1288310"
+					{
+						"LastPlayed"		"1659000493"
+						"Playtime"		"140"
+					}
+					"1307570"
+					{
+						"LastPlayed"		"1658991245"
+						"Playtime"		"41"
+					}
+					"1810580"
+					{
+						"LastPlayed"		"1668746891"
+						"Playtime"		"34"
+					}
+					"1820120"
+					{
+						"LastPlayed"		"1659283051"
+						"Playtime"		"85"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"0"
+							"used_files"		"0"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"648800"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1216710"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"977950"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1168660"
+					{
+						"LastPlayed"		"1691494433"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"3590"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1692000733"
+				"SmallMode"		"0"
+				"PlayerLevel"		"4"
+			}
+		}
+	}
+	"WebStorage"
+	{
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]},\"provide_deck_feedback\":0}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":false,\"bBlurAdultContentSex\":false,\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":1,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[],\"currentSelection\":{},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]}}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[2]}"
+		"keyboard_initial_location_desktop"		"\"center-bottom\""
+		"keyboard_initial_location_overlay"		"\"center-bottom\""
+		"SteamVoiceSettings_1375748898"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":480,\"rgAccountIDs\":[351765534],\"totalFriends\":1},{\"appid\":1447430,\"rgAccountIDs\":[1074044059,1332466744],\"totalFriends\":2},{\"appid\":1172470,\"rgAccountIDs\":[1088638190,1046742725,1283040580,1101127867,1098408114,1074044059,1065253976,1396313918],\"totalFriends\":8},{\"appid\":271590,\"rgAccountIDs\":[351765534,1422535130,1389672343,1074044059],\"totalFriends\":4},{\"appid\":1203220,\"rgAccountIDs\":[1422535130,1088638190,1283040580],\"totalFriends\":3},{\"appid\":534380,\"rgAccountIDs\":[1283040580],\"totalFriends\":1},{\"appid\":239140,\"rgAccountIDs\":[1283040580],\"totalFriends\":1},{\"appid\":236390,\"rgAccountIDs\":[1098408114],\"totalFriends\":1},{\"appid\":714010,\"rgAccountIDs\":[1389672343,351765534,1074044059,1238384471],\"totalFriends\":4},{\"appid\":1938090,\"rgAccountIDs\":[1283040580],\"totalFriends\":1},{\"appid\":1256670,\"rgAccountIDs\":[1046742725],\"totalFriends\":1},{\"appid\":2357570,\"rgAccountIDs\":[1510190545,1396313918,351765534],\"totalFriends\":3},{\"appid\":1418630,\"rgAccountIDs\":[1418210186],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[1473178642,1280645322,1389672343,1088638190,1283040580,1074044059,1332466744,1418210186],\"totalFriends\":26},{\"appid\":2170420,\"rgAccountIDs\":[1283040580],\"totalFriends\":1},{\"appid\":304930,\"rgAccountIDs\":[1013180989,1098408114,1238384471],\"totalFriends\":3},{\"appid\":4000,\"rgAccountIDs\":[1125539359],\"totalFriends\":1},{\"appid\":578080,\"rgAccountIDs\":[1389672343,1065253976],\"totalFriends\":2},{\"appid\":1923740,\"rgAccountIDs\":[1098408114],\"totalFriends\":1},{\"appid\":977950,\"rgAccountIDs\":[1013180989],\"totalFriends\":1},{\"appid\":1238860,\"rgAccountIDs\":[1098408114],\"totalFriends\":1},{\"appid\":905340,\"rgAccountIDs\":[1013180989],\"totalFriends\":1},{\"appid\":1237970,\"rgAccountIDs\":[1396313918],\"totalFriends\":1},{\"appid\":1144400,\"rgAccountIDs\":[1513721987],\"totalFriends\":1},{\"appid\":1281930,\"rgAccountIDs\":[1074044059],\"totalFriends\":1},{\"appid\":1426210,\"rgAccountIDs\":[1396313918],\"totalFriends\":1},{\"appid\":1110390,\"rgAccountIDs\":[1013180989],\"totalFriends\":1},{\"appid\":3590,\"rgAccountIDs\":[907754857],\"totalFriends\":1},{\"appid\":594650,\"rgAccountIDs\":[1283040580],\"totalFriends\":1},{\"appid\":779640,\"rgAccountIDs\":[1074044059],\"totalFriends\":1},{\"appid\":1536610,\"rgAccountIDs\":[1098408114],\"totalFriends\":1},{\"appid\":211,\"rgAccountIDs\":[1098408114],\"totalFriends\":1},{\"appid\":230410,\"rgAccountIDs\":[1396313918],\"totalFriends\":1},{\"appid\":1782380,\"rgAccountIDs\":[1125539359],\"totalFriends\":1},{\"appid\":220200,\"rgAccountIDs\":[1098408114],\"totalFriends\":1},{\"appid\":1802870,\"rgAccountIDs\":[1396313918],\"totalFriends\":1},{\"appid\":1446780,\"rgAccountIDs\":[351765534],\"totalFriends\":1},{\"appid\":332950,\"rgAccountIDs\":[1396313918],\"totalFriends\":1},{\"appid\":1288310,\"rgAccountIDs\":[1074044059],\"totalFriends\":1},{\"appid\":939400,\"rgAccountIDs\":[1013180989],\"totalFriends\":1},{\"appid\":837470,\"rgAccountIDs\":[1013180989],\"totalFriends\":1},{\"appid\":2225070,\"rgAccountIDs\":[1013180989],\"totalFriends\":1},{\"appid\":1644960,\"rgAccountIDs\":[1276718594],\"totalFriends\":1},{\"appid\":774171,\"rgAccountIDs\":[1046742725,1283040580],\"totalFriends\":2},{\"appid\":2406000,\"rgAccountIDs\":[1088638190],\"totalFriends\":1},{\"appid\":108600,\"rgAccountIDs\":[1283040580],\"totalFriends\":1},{\"appid\":700330,\"rgAccountIDs\":[1125539359],\"totalFriends\":1},{\"appid\":105600,\"rgAccountIDs\":[1074044059],\"totalFriends\":1},{\"appid\":1091500,\"rgAccountIDs\":[1074044059,351765534],\"totalFriends\":2},{\"appid\":774361,\"rgAccountIDs\":[1074044059],\"totalFriends\":1}],\"lastFetchTimeMS\":1691928379958}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1691986378,\"appids\":[1168660]},\"rgIgnoredApps\":[]}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b(你他猫|特么的|mlgb|(ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|долбоебизм|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|говноедов|долбаебов|ебланская|ебланский|заебёшься|захуячили|пидарасов|пидарский|съебаться|уебанский|уебищьное|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|ахуенная|ахуенную|ахуенный|выебаное|ебанному|ебанутые|ебланами|пидарасы|уёбищная|уёбищный|god\\\\W*damn?\\\\w*|въебали|въебать|ебанная|ебанное|ебанных|ебаного|ебаньки|ебонное|заебала|заебало|поебень|хуёвого|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|ахуели|ебаная|ебаное|ебаной|ебаную|ебаные|ебаный|ебаным|ебаных|ебучий|пиздеж|пиздец|сраная|уёбища|уёбище|хуесос|хуетой|хуйнёй|хуёвая|хуёвый|你妈死了|妈的个逼|我是傻逼|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|блядь|блять|дохуя|дрочи|ебало|ебать|н4еб4л|нахуй|нахуя|нехуй|нихуя|пизде|пизду|похуй|уебёт|хуета|хуету|хуйни|хуйню|хуйня|шлюхи|ёбаны|a+sholes?|sh+e+i+t+|操你妈|操你妹|肏你妈|ахуе|ебал|ебут|сука|хуям|шлюх|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|jebane|twats?|бля|ебу|хуи|хуй|хуя|傻屄|傻逼|操死|臭逼|cums?|dafuq|diсk|sh it|coq+|hore|kock|nmsl|shat|dik|fck|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|даунская|пидорасы|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|москаль|пидорка|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|kaltaklarla|kaltaklarla|n+i+[gq]+s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|polacke?s?|кацап|русня|хохлы|хохол|neekeris?|nigfhers?|redskins?|beaners?|coolies?|czarnuch|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|иigger|\\\\w*fag|beaner|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|kokhol|moskal|reggin|spics?|黑鬼|abos?|fgts?|fаgs|gypsy|japs?|troon|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*свинособак\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|\\\\w*fvchvo\\\\w*fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|\\\\w*fvchvo\\\\w*)\\\\b)$\""
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":648800},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[2],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]}}"
+		"ChatStorePopupState_1375748898"		"{\"window_restore_details\":\"1&x=620&y=245&w=740&h=650\",\"bFriendsListVisible\":true,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"GameInvites_1375748898"		"{\"dismisstimes\":{\"1375748898\":1691570981,\"1389672343\":1691493650}}"
+		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"FriendsList\",0]]}"
+		"GetEquippedProfileItemsForUser76561199336014626"		"{\"profile_background\":{\"profile_colors\":[]},\"mini_profile_background\":{\"profile_colors\":[]},\"avatar_frame\":{\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
+		"FriendStoreLocalPrefs_1375748898"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+		"FriendGroupCollapse_1375748898"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
+		"OverlaySavedDataV2_730_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":0,\"rgRequests\":[]}}"
+		"UIDisplayPrefs_1375748898"		"{\"nChatRoomListHeightPx\":224,\"bChatRoomListCollapsed\":false,\"bDontShowVoiceAlert\":false,\"nFriendsListSingleWindowWidthPx\":300,\"bFavoritesHintDismissed\":false,\"bRemotePlayLinkHintDismissed\":false,\"nChangeLogDismissed\":0,\"rtLastAckedNewEmoticons\":1576780700}"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":0},{\"notification_type\":3,\"notification_targets\":0},{\"notification_type\":4,\"notification_targets\":0},{\"notification_type\":5,\"notification_targets\":0},{\"notification_type\":6,\"notification_targets\":0},{\"notification_type\":8,\"notification_targets\":0},{\"notification_type\":9,\"notification_targets\":0},{\"notification_type\":11,\"notification_targets\":0},{\"notification_type\":12,\"notification_targets\":0}]"
+		"spotlight_gameplaysession_store"		"{\"730\":1691655307}"
+		"InflightMessageQueue_1375748898"		"{\"1276718594\":[{\"message\":\"........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........FRRRRRRRRRRF..........................\\n..............................................\\n..............................................\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n...MMMMMMMMMMMI...............IMMMMMMMMMMX....\\n...RMMMMMMMMMM%...............NMMMMMMMMMM/....\\n...,MMMMMMMMMMMN`...........;@MMMMMMMMMMR.....\\n....lMMMMMMMMMMMMK,.......;#MMMMMMMMMMMM;.....\\n.....,@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#.......\\n.......KMMMMMMMMMMMMMMMMMMMMMMMMMMMMM}........\\n..........IMMMMMMMMMMMMMMMMMMMMMMN/...........\\n.............;*EMMMMMMMMMMMMM#},..............\\n..............................................\\n..............................................\\n..................;]EMMMMMMMMMMMNF>...........\\n..............;&MMMMMMMMMMMMMMMMMMMMM$!.......\\n..........:RMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX....\\n.........FMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@!.....\\n.......&MMMMMMMMMMMMMW>........:]@MMM&........\\n......&MMMMMMMMMMMM&...............*,.........\\n.....WMMMMMMMMMMMX............................\\n....+MMMMMMMMMMME.............................\\n....WMMMMMMMMMMM,.............................\\n....MMMMMMMMMMMW..............................\\n...`MMMMMMMMMMMW..............................\\n....@MMMMMMMMMMM`.............................\\n....*MMMMMMMMMMMR.............................\\n....`MMMMMMMMMMMM]............................\\n.....`@MMMMMMMMMMMM1...............YM\\\"........\\n......;@MMMMMMMMMMMMM&;........:}NMMMMW,......\\n........~@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM*....\\n..........}MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#:...\\n.............:*@MMMMMMMMMMMMMMMMMMMMMW\\\".......\\n.................`1R@MMMMMMMMMMM@K+:..........\\n..............................................\\n..............................................\\n....!WWWWWWWWWWW}.............KWWWWWWWWWWW#:..\\n....\\\"MMMMMMMMMMMl...........\\\"MMMMMMMMMMMM]....\\n....\\\"MMMMMMMMMMMl.........}MMMMMMMMMMM@~......\\n....\\\"MMMMMMMMMMMl.......:$MMMMMMMMMMMX........\\n....\\\"MMMMMMMMMMMl.....;@MMMMMMMMMMM+..........\\n....\\\"MMMMMMMMMMMl....*MMMMMMMMMMM#............\\n....\\\"MMMMMMMMMMMl..KMMMMMMMMMMMl..............\\n....\\\"MMMMMMMMMMMl~MMMMMMMMMMM%`...............\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMM\\\"................\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMMM]...............\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMMMMMi.............\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMMMMMM*............\\n....\\\"MMMMMMMMMMMMMM@~.`NMMMMMMMMMMM+..........\\n....\\\"MMMMMMMMMMMMMF.....EMMMMMMMMMMMY.........\\n....\\\"MMMMMMMMMMMI........,@MMMMMMMMMMM1.......\\n....\\\"MMMMMMMMMMMl..........WMMMMMMMMMMMF......\\n....\\\"MMMMMMMMMMMl...........;@MMMMMMMMMMM]....\\n....\\\"MMMMMMMMMMMl............:%MMMMMMMMMMM&...\\n....\\\"MMMMMMMMMMMl..............'MMMMMMMMMMMM*.\\n....!WWWWWWWWWWW}...............`$WWWWWWWWWWWX\\n..............................................\\n..............................................\\n.:KRRRRRRRRRRR>...............1RRRRRRRRRRR]...\\n..;MMMMMMMMMMMM,.............>MMMMMMMMMMMK....\\n....&MMMMMMMMMMM\\\"...........}MMMMMMMMMMMi.....\\n.....RMMMMMMMMMM@:.........~MMMMMMMMMMMi......\\n......iMMMMMMMMMMM'.......iMMMMMMMMMM%:.......\\n......./MMMMMMMMMM%......,MMMMMMMMMMN:........\\n........:%MMMMMMMMM@:...\\\"MMMMMMMMMMI..........\\n.........`NMMMMMMMMMR..:@MMMMMMMMMI...........\\n...........IMMMMMMMMM$;MMMMMMMMMM'............\\n............XMMMMMMMMMMMMMMMMMMM~.............\\n.............~MMMMMMMMMMMMMMMM#...............\\n..............\\\"MMMMMMMMMMMMMME................\\n................EMMMMMMMMMMM/.................\\n................lMMMMMMMMMMM;.................\\n................lMMMMMMMMMMM;.................\\n................lMMMMMMMMMMM;.................\\n................lMMMMMMMMMMM;.................\\n................lMMMMMMMMMMM;.................\\n................lM\",\"timestamp\":1691987717230,\"eError\":4},{\"message\":\"........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\\\"......\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMMMMMMMMMMMMMMMMMMl.........\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........WMMMMMMMMMMW..........................\\n........FRRRRRRRRRRF..........................\\n..............................................\\n..............................................\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n..\\\"MMMMMMMMMMM/.............../MMMMMMMMMMW....\\n...MMMMMMMMMMMI...............IMMMMMMMMMMX....\\n...RMMMMMMMMMM%...............NMMMMMMMMMM/....\\n...,MMMMMMMMMMMN`...........;@MMMMMMMMMMR.....\\n....lMMMMMMMMMMMMK,.......;#MMMMMMMMMMMM;.....\\n.....,@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#.......\\n.......KMMMMMMMMMMMMMMMMMMMMMMMMMMMMM}........\\n..........IMMMMMMMMMMMMMMMMMMMMMMN/...........\\n.............;*EMMMMMMMMMMMMM#},..............\\n..............................................\\n..............................................\\n..................;]EMMMMMMMMMMMNF>...........\\n..............;&MMMMMMMMMMMMMMMMMMMMM$!.......\\n..........:RMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX....\\n.........FMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@!.....\\n.......&MMMMMMMMMMMMMW>........:]@MMM&........\\n......&MMMMMMMMMMMM&...............*,.........\\n.....WMMMMMMMMMMMX............................\\n....+MMMMMMMMMMME.............................\\n....WMMMMMMMMMMM,.............................\\n....MMMMMMMMMMMW..............................\\n...`MMMMMMMMMMMW..............................\\n....@MMMMMMMMMMM`.............................\\n....*MMMMMMMMMMMR.............................\\n....`MMMMMMMMMMMM]............................\\n.....`@MMMMMMMMMMMM1...............YM\\\"........\\n......;@MMMMMMMMMMMMM&;........:}NMMMMW,......\\n........~@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM*....\\n..........}MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#:...\\n.............:*@MMMMMMMMMMMMMMMMMMMMMW\\\".......\\n.................`1R@MMMMMMMMMMM@K+:..........\\n..............................................\\n..............................................\\n....!WWWWWWWWWWW}.............KWWWWWWWWWWW#:..\\n....\\\"MMMMMMMMMMMl...........\\\"MMMMMMMMMMMM]....\\n....\\\"MMMMMMMMMMMl.........}MMMMMMMMMMM@~......\\n....\\\"MMMMMMMMMMMl.......:$MMMMMMMMMMMX........\\n....\\\"MMMMMMMMMMMl.....;@MMMMMMMMMMM+..........\\n....\\\"MMMMMMMMMMMl....*MMMMMMMMMMM#............\\n....\\\"MMMMMMMMMMMl..KMMMMMMMMMMMl..............\\n....\\\"MMMMMMMMMMMl~MMMMMMMMMMM%`...............\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMM\\\"................\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMMM]...............\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMMMMMi.............\\n....\\\"MMMMMMMMMMMMMMMMMMMMMMMMMMMM*............\\n....\\\"MMMMMMMMMMMMMM@~.`NMMMMMMMMMMM+..........\\n....\\\"MMMMMMMMMMMMMF.....EMMMMMMMMMMMY.........\\n....\\\"MMMMMMMMMMMI........,@MMMMMMMMMMM1.......\\n....\\\"MMMMMMMMMMMl..........WMMMMMMMMMMMF......\\n....\\\"MMMMMMMMMMMl...........;@MMMMMMMMMMM]....\\n....\\\"MMMMMMMMMMMl............:%MMMMMMMMMMM&...\\n....\\\"MMMMMMMMMMMl..............'MMMMMMMMMMMM*.\\n....!WWWWWWWWWWW}...............`$WWWWWWWWWWWX\",\"timestamp\":1691987770710,\"eError\":4}]}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+		"InGameOverlayShortcutKey"		"Shift	KEY_F10"
+		"GameOverlayHomePage"		"http://www.google.com"
+		"NetworkingAllowShareIP"		"3"
+		"displayratesasbits"		"0"
+	}
+	"CloudManager"
+	{
+		"HintAppsToPreload"		"2371090"
+	}
+	"depots"
+	{
+		"730"
+		{
+			"CDN"
+			{
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1687009456-7341067502980935796-0-58cf7e25adfa9e723bcbdfc4d36627af"
+					"Expires"		"1687013056"
+				}
+			}
+		}
+		"731"
+		{
+			"CDN"
+			{
+				"dl.steam.clngaa.com"
+				{
+					"token"		"?t=1687425645&k=03324e79b53c3c6abf17b40ea8f0d46c"
+					"Expires"		"1687425645"
+				}
+			}
+		}
+		"228983"
+		{
+			"CDN"
+			{
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1687415280-4072674133219466290-0-085ca779f69a03183c38a805a826ffe9"
+					"Expires"		"1687418880"
+				}
+			}
+		}
+		"228984"
+		{
+			"CDN"
+			{
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1687415281-2347530123346815346-0-8392878119109f4fdb7daa95ee5e852d"
+					"Expires"		"1687418881"
+				}
+			}
+		}
+		"1172471"
+		{
+			"CDN"
+			{
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1687415282-8022063207068025196-0-89a2e693438affcedeaae0953e8ef5e0"
+					"Expires"		"1687418882"
+				}
+				"dl.steam.clngaa.com"
+				{
+					"token"		"?t=1688215532&k=21c052197fc35eee9d29a06f6cf5fc33"
+					"Expires"		"1688215532"
+				}
+			}
+		}
+		"1172477"
+		{
+			"CDN"
+			{
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1687416775-1612545642299055141-0-83afae6a8910211897dacf261955347f"
+					"Expires"		"1687420375"
+				}
+				"dl.steam.clngaa.com"
+				{
+					"token"		"?t=1688215532&k=c9bf5ec873f97d04eeab6cfdc7b963eb"
+					"Expires"		"1688215532"
+				}
+			}
+		}
+		"228982"
+		{
+			"CDN"
+			{
+				"dl.steam.clngaa.com"
+				{
+					"token"		"?t=1688935991&k=567cebe673d1b0e2b10ce7b14a5802d8"
+					"Expires"		"1688935991"
+				}
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1688213914-4946603427661987179-0-4b6fe4ffb78ddc743b5498debecb7905"
+					"Expires"		"1688217514"
+				}
+			}
+		}
+		"1168661"
+		{
+			"CDN"
+			{
+				"st.dl.eccdnx.com"
+				{
+					"token"		"?expiration_time=1691505236&token=a3c134d26e34190842464b0e2d6f7bf1c52d185c"
+					"Expires"		"1691505236"
+				}
+				"xz.pphimalayanrt.com"
+				{
+					"token"		"?auth_key=1691986373-5232589619241204218-0-841296115fef25eae53fe3feac88a295"
+					"Expires"		"1691989973"
+				}
+			}
+		}
+	}
+	"RecentLocalPlayedGameIDs"		"da02000000000000dae1d964744a6f6214d51100000000002128d26400000000f6e3110000000000ede9936400000000"
+	"nettickets"
+	{
+		"730"		"010000004a4033a9ebc913c392eca11adf23971c0c66753b5b5533f56c704378e8f8bdd6975db6e6abb1d1ed6991859d168848e5eec1a113c1d7d9422bcde1d26385f74de34567a9f20112d13637b8a46a193719e5681a09a47651ac9c9256f6f687b0a87bf3caa5d27ccc8091688018f29f2307db8cb90869a685aacfeeb6d3dbd1c442b60f4843959c1b8930445853a162a60c71b3fc68bf9fc08310f56740aecd695e6a240d564833a3296933abf32e71373cf78c084c40e812fed69609d7b4c68e01a9c7d66285e3a12dd99fb112f02d5752468f826b2198afe7b49b5856b30b009208378f778c496708792d693a0f7f549a23a40d4cd2d5aa"
+	}
+	"UserAppConfig"
+	{
+		"1172470"		"00696e7465726e616c00016c616e677561676500736368696e657365000808"
+		"1168660"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+	}
+	"StartupState.Friends"		"0"
+}

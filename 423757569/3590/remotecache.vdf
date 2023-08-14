@@ -1,0 +1,65 @@
+"3590"
+{
+	"ChangeNumber"		"-7620720123334606376"
+	"ostype"		"20"
+	"game1_0.dat"
+	{
+		"root"		"0"
+		"size"		"39776"
+		"localtime"		"1584083317"
+		"time"		"1584083317"
+		"remotetime"		"1584083317"
+		"sha"		"7a48605a7c0b48d312b422ae1dc99c5691864366"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"user1.dat"
+	{
+		"root"		"0"
+		"size"		"960"
+		"localtime"		"1584083300"
+		"time"		"1584083301"
+		"remotetime"		"1584083301"
+		"sha"		"27750eba5f9f312067f8742b8a314a5939e51a00"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"user2.dat"
+	{
+		"root"		"0"
+		"size"		"888"
+		"localtime"		"1691939234"
+		"time"		"1691939235"
+		"remotetime"		"1691939235"
+		"sha"		"2a64b9a2ad22f5666f106bf9279ad85172798f65"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"users.dat"
+	{
+		"root"		"0"
+		"size"		"25"
+		"localtime"		"1584766620"
+		"time"		"1584766621"
+		"remotetime"		"1584766621"
+		"sha"		"a7de67ae6d62990149b804768b7eb43ac801773a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"game2_0.dat"
+	{
+		"root"		"0"
+		"size"		"54796"
+		"localtime"		"1691939219"
+		"time"		"1691939220"
+		"remotetime"		"1691939220"
+		"sha"		"7dc761527594c6d3322e6e6b9e1332ef6d5b9c41"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

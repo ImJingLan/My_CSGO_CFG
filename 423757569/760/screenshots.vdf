@@ -1,0 +1,102 @@
+"Screenshots"
+{
+	"648800"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"648800/screenshots/20230722161057_1.jpg"
+			"thumbnail"		"648800/screenshots/thumbnails/20230722161057_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"648800"
+			"creation"		"1690013457"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"648800/screenshots/20230722161055_1.jpg"
+			"thumbnail"		"648800/screenshots/thumbnails/20230722161055_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"648800"
+			"creation"		"1690013455"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"2"
+		{
+			"type"		"1"
+			"filename"		"648800/screenshots/20230722004037_1.jpg"
+			"thumbnail"		"648800/screenshots/thumbnails/20230722004037_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"648800"
+			"creation"		"1689957637"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"3"
+		{
+			"type"		"1"
+			"filename"		"648800/screenshots/20230720173601_1.jpg"
+			"thumbnail"		"648800/screenshots/thumbnails/20230720173601_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"648800"
+			"creation"		"1689845761"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"4"
+		{
+			"type"		"1"
+			"filename"		"648800/screenshots/20230623165503_1.jpg"
+			"thumbnail"		"648800/screenshots/thumbnails/20230623165503_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"648800"
+			"creation"		"1687510503"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
+	"322330"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"322330/screenshots/20230623190042_1.jpg"
+			"thumbnail"		"322330/screenshots/thumbnails/20230623190042_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1920"
+			"height"		"1010"
+			"gameid"		"322330"
+			"creation"		"1687518042"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
+	"shortcutnames"
+	{
+	}
+}

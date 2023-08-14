@@ -1,0 +1,29 @@
+"977950"
+{
+	"ChangeNumber"		"-7098195004366909355"
+	"ostype"		"20"
+	"User/custom_data.sav"
+	{
+		"root"		"1"
+		"size"		"20"
+		"localtime"		"1689255059"
+		"time"		"1689255065"
+		"remotetime"		"1689081735"
+		"sha"		"4e74c216767b236ac4f4883d09100273d120fb29"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"User/data.sav"
+	{
+		"root"		"1"
+		"size"		"311"
+		"localtime"		"1689255059"
+		"time"		"1689255065"
+		"remotetime"		"1689255065"
+		"sha"		"0c3a2e706b09faf455b6fb446b8b49b7d6955d29"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

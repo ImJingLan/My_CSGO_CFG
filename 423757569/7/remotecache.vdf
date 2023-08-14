@@ -1,0 +1,29 @@
+"7"
+{
+	"ChangeNumber"		"-7215752166044159561"
+	"ostype"		"20"
+	"sharedconfig.vdf"
+	{
+		"root"		"0"
+		"size"		"1551"
+		"localtime"		"1689733796"
+		"time"		"1689733796"
+		"remotetime"		"1689733796"
+		"sha"		"38736659ceabd519b5903c6a59fe8cf8d32db9cd"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"serverbrowser_hist.vdf"
+	{
+		"root"		"0"
+		"size"		"12918"
+		"localtime"		"1691934730"
+		"time"		"1691934730"
+		"remotetime"		"1691934730"
+		"sha"		"268a0d89c442a4382cb66f70c08b4867a0f72e80"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

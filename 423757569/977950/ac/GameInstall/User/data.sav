@@ -1,0 +1,16 @@
+﻿{
+"calibrationPresets":[{
+"outputType":"Speaker",
+"deviceName":"*",
+"inputOffset":46
+}],
+"version":110,
+"lastAnalyticsUpdate":194,
+"currentLevel":"3-X",
+"tutorialProgress02":6,
+"dlcStoryProgress":0,
+"worldAttempts02":37,
+"worldAttemptsWithoutNewBest02":0,
+"percentCompletion02":0.2857143,
+"globalVolume":10
+}
